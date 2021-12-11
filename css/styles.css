@@ -1,0 +1,32 @@
+/**************************TAG SELECTORS**************************/
+
+h1 {
+  color: red;
+  font-size: 115px;
+}
+
+
+img:hover {
+  background-color: gold;
+} /* sudo attribute changes colour when hoveredover so cool! ref; https://www.w3schools.com/cssref/sel_hover.asp */
+
+
+/**************************CLASS SELECTORS**************************/
+
+.bacon {
+  background-color: darkgreen;
+}
+
+.pancakes {
+  background-color: pink;
+}
+
+.cirular {
+  border-radius: 100%;
+}
+
+/**************************ID SELECTORS**************************/
+
+#heading {
+  color: blue;
+}
